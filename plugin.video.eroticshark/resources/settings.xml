@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Basic Settings">
+        <setting label="Download settings" type="lsep"/>
+        <setting label="Select download folder" type="folder" id="savefolder" source="auto" default="No folder selected" option="writeable"/>
+        <setting label="View modes" type="lsep"/>
+        <setting label="Select default view mode" type="enum" id="dview" values="List|Thumbnail" default="0"/>
+    </category>
+</settings>
