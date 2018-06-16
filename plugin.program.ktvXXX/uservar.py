@@ -92,7 +92,7 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.ktvXXX'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/Solvtions/ktvXXX/master/repository.ktvXXX/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/addons.xml'
 # Url to folder zip is located in
 REPOZIPURL     = 'http://kritiktv.net/ktv/repo'
 #########################################################
