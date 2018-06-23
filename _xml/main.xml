@@ -25,6 +25,11 @@
   </dir>
   
   <dir>
+    <title>Full Length Movies</title>
+    <link>file://full.xml</link>
+  </dir>
+  
+  <dir>
     <title>Special Collection</title>
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/special.xml</link>
     <thumbnail></thumbnail>
