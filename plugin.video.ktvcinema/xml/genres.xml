@@ -1,0 +1,113 @@
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/ACTION.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Adventure</title>
+  <tmdb>genre/movies/12</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/ADVENTURE.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/ANIMATION.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/movies/35</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/COMEDY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/movies/80</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/CRIME.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/movies/99</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/DOCUMENTARY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/movies/18</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/DRAMA.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/movies/10751</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/FAMILY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Fantasy</title>
+  <tmdb>genre/movies/14</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/FANTASY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>History</title>
+  <tmdb>genre/movies/36</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/HISTORY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Horror</title>
+  <tmdb>genre/movies/27</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/HORROR.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Music</title>
+  <tmdb>genre/movies/10402</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MUSIC.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/movies/9648</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MYSTERY.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Romance</title>
+  <tmdb>genre/movies/10749</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/ROMANCE.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Science Fiction</title>
+  <tmdb>genre/movies/878</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/SCIFI.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TV</title>
+  <tmdb>genre/movies/10770</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/TV.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Thriller</title>
+  <tmdb>genre/movies/53</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/THRILLER.png</thumbnail>
+</dir>
+
+<dir>
+  <title>War</title>
+  <tmdb>genre/movies/10752</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/WAR.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Westerns</title>
+  <tmdb>genre/movies/37</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/WESTERN.png</thumbnail>
+</dir>

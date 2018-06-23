@@ -1,0 +1,47 @@
+<dir>
+  <title>Trending</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/TRENDING.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Most Popular</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/POPULAR.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Anticipated</title>
+  <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/ANTICIPATED.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/TOPRATED.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Classic TV</title>
+  <tmdb>list/38976</tmdb>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/CLASSIC-TV.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Networks</title>
+  <trakt>https://trakt.tv/users/aclo_networks/lists</trakt>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/NETWORKS.png</thumbnail>
+</dir>
+
+<dir>
+   <title>Genres</title>
+   <link>file://genretv.xml</link>
+   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Search TV Shows</title>
+  <trakt>search</trakt>
+  <thumbnail>http://kritiktv.net/ktv/Images/ICONS/SEARCHTVSHOWS.png</thumbnail>
+</dir>

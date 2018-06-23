@@ -1,0 +1,132 @@
+<dir>
+  <title>Aliens</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/alien-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>DC Movies</title>
+<tmdb>list/32942</tmdb>
+<thumbnail>http://www.supermansupersite.com/dc_universe_original_movies_collection.jpg</thumbnail>
+<summary>All DC Movies</summary>
+</dir>
+ 
+<dir>
+  <title>Disasters</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/disaster-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+ <dir>
+  <title>End of Days</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/end-of-days-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Ghosts</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/ghost-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Horror</title>
+  <link>file://horror.xml</link>
+</dir>
+ 
+ <dir>
+  <title>Killer Animals</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/killer-animal-movies/items/</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Martial Arts</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/martial-arts/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>Marvel Movies</title>
+<tmdb>list/32938</tmdb>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91-cYiUkB1L._SX385_.jpg</thumbnail>
+<summary>All Marvel Movies</summary>
+</dir>
+ 
+<dir>
+  <title>Monsters</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/monster-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Mummies</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/mummy-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Robots</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/robot-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Sherlock Holmes</title>
+  <trakt>https://api.trakt.tv/users/me/lists/sherlock-holmes/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Space</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/space-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Sports</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/sport-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Spies</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/spy-secret-agent-copy/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Swords and Sorcery</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/fantasy-swords-and-sorcery/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Tarzan</title>
+  <trakt>https://api.trakt.tv/users/me/lists/tarzan-movies-4231649/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Tough Guys</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/tough-guy-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Vampires</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/vampires-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>War</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/war-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+  <title>Westerns</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/western-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>

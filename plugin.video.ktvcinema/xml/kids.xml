@@ -1,0 +1,29 @@
+<dir>
+<title>Kids Animated</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>Kids Live Action</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>Furry Friends</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>Studio Ghibli</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/studio-ghibli-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>Roald Dahl Movies</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
