@@ -45,7 +45,7 @@
   </plugin>
   
   <plugin>
-    <name>[COLOR red]KTV LIVE[/COLOR]</name>
+    <name>[COLOR red]KTV LIVE [COLOR gold](Must have active account to work)[/COLOR][/COLOR]</name>
     <link>plugin://plugin.video.Kritik/?action=stream_video&amp;title=ADULT&amp;url=31&quot;,return</link>
     <thumbnail></thumbnail>
     <summary>Premium Live TV Subscription Required</summary>
