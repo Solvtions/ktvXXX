@@ -1,0 +1,62 @@
+<xml>
+  <item>
+    <title>[COLOR gold]Welcome to KTV XXX.. Simply the best..!![/COLOR]</title>
+  </item>
+  
+  <item>
+    <title>[COLOR gold]**If anything is down please let us know.. support@kritiktv.net**[/COLOR]</title>
+  </item>
+  
+  <item>
+    <title>[COLOR orange]Some sites will ask you to pair your device[/COLOR]</title>
+  </item>
+  
+  <item>
+    <title>[COLOR orange]**Use the Pair Device option below**[/COLOR]</title>
+  </item>
+  
+  <item>
+    <title>[COLOR yellow]***Firestick users need to use Phone (connected to your wifi) or Downloader App to pair with sites***[/COLOR]</title>
+  </item>
+  
+  <dir>
+    <title>1-Click Fantasies</title>
+    <link>file://comp.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Top Sites</title>
+    <link>file://sites.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Special Collection</title>
+    <link>file://longest.xml</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+	<summary></summary>
+  </dir>
+  
+  <dir>
+    <title>Live Feeds</title>
+    <link>file://live.xml</link>
+  </dir>
+  
+  <dir>
+    <title>[COLOR gold]**Pornstar Search**[/COLOR]</title>
+    <eporner>search</eporner>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+  </dir>
+  
+  <item>
+    <title>[COLOR gold]**Pair Device**[/COLOR]</title>
+    <pairwith>pairlist</pairwith>
+  </item>
+
+  <item>
+    <title>[COLOR gold]**Settings**[/COLOR]</title>
+    <mysettings>1/0</mysettings>
+    <info>Open the Settings for the addon on the General tab</info>
+  </item>
+</xml>

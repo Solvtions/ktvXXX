@@ -1,0 +1,286 @@
+<xml>
+  <dir>
+    <title>[COLOR gold]**Pornstar Search**[/COLOR]</title>
+    <eporner>search</eporner>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+  </dir>
+  
+  <dir>
+    <title>4K Ultra HD</title>
+    <eporner>category/4k-porn</eporner>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+  </dir>
+  
+  <dir>
+    <title>Collection of Best Porn</title>
+    <link>file://cats.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Eporner</title>
+    <link>file://eporner.xml</link>
+  </dir>
+   
+  <dir>
+    <title>Brazzers</title>
+    <link>file://brazz.xml</link>
+	<thumbnail>http://i.imgur.com/fPx3JtD.png</thumbnail>
+	<fanart>http://i.imgur.com/fPx3JtD.png</fanart>
+  </dir>
+  
+  <dir>
+    <title>Tiny 4K</title>
+    <link>file://tiny.xml</link>
+	<thumbnail>http://i.imgur.com/h9aRgeG.png</thumbnail>
+	<fanart>http://i.imgur.com/h9aRgeG.png</fanart>
+  </dir>
+  
+  <dir>
+    <title>WoW Porn</title>
+    <link>file://wow.xml</link>
+	<thumbnail>http://i.imgur.com/wauTPQN.png</thumbnail>
+	<fanart>http://i.imgur.com/wauTPQN.png</fanart>
+  </dir>
+  
+  <dir>
+    <title>Team Skeet</title>
+    <link>file://skeet.xml</link>
+	<thumbnail>http://i.imgur.com/tyna2Vt.png</thumbnail>
+	<fanart>http://i.imgur.com/tyna2Vt.png</fanart>
+  </dir>
+  
+  <dir>
+    <title>Young Girls Tube</title>
+    <link>file://ygt.xml</link>
+	<thumbnail>http://i.imgur.com/cRtpjW2.png</thumbnail>
+	<fanart>http://i.imgur.com/cRtpjW2.png</fanart>
+  </dir>
+  
+  <dir>
+    <title>Porn Stream</title>
+    <link>file://pstream.xml</link>
+	<thumbnail>http://i.imgur.com/lYfaHrE.png</thumbnail>
+	<fanart>http://i.imgur.com/lYfaHrE.png</fanart>
+  </dir>
+  
+  <item>
+    <title>[COLOR gold]**MUST PAIR WITH OPENLOAD FOR SECTIONS BELOW**[/COLOR]</title>
+  </item>
+  
+  <item>
+    <title>[COLOR gold**Pair Device**[/COLOR]</title>
+    <pairwith>pairlist</pairwith>
+  </item>
+  
+  <plugin>
+    <name>[COLOR orange]NEW VIDEOS[/COLOR]</name>
+    <link>plugin://plugin.video.erotik/?mode=1&amp;name=%5bCOLOR%20gold%5dNew%20Videos%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.ero-tik.com%2findex.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary> section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Bang Bros</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Bang%20Bross&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-bangbross-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Bang Bros section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Blacked</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Blacked&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-blacked-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Blacked section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Brazzers Top 50</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Brazzers%20Top%2050&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-brazzers-top-50-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Brazzers Top 50 section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Brazzers</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Brazzers&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-brazzers-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Brazzers section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Reality Kings</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Reality%20Kings&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-reality-kings-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Reality Kings section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Naughty America</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Naughty%20America&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-naughty-america-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Naughty America section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>DDF Network</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=DDFNetwork&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-ddfnetwork-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>DDF Network section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>21Sextury</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=21Sextury&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-21sextury-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>21Sextury section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Babes</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Babes&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-babes-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Babes section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Mofos</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Mofos&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-mofos-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Mofos section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Porn Pros</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Porn%20Pros&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-pornbros-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Porn Pros section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Playboy</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Playboy&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-playboy-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Playboy section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Team Skeet</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=TeamSkett&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-teamskett-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Team Skeet section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Cumlouder</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Cumlouder&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-cumlouder-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Cumlouder section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Twisty's</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Twistys&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-twistys-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Twisty's section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Mix</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Mix&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-mix-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Mix section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Digital Playground</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Digital%20Playground&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-digital-playground-videos-1-date.html&quot;,return</link>
+    <thumbnail></thumbnail>
+    <summary>Digital Playground section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Killergram</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Killergram&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-Killergram-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Killergram section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Spizoo</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Spizoo&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-spizoo-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Spizoo section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Jules Jordan</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Jules%20Jordan&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-julesjordan-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Jules Jordan section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Burning Angel</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Burning%20Angel&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-burning-angel-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Burning Angel section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Evil Angel</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Evil%20Angel&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-evil-angel-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Evil Angel section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Fake Taxi</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Fake%20Taxi&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-fake-taxi-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Fake Taxi section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Female Fake Taxi</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Female%20Fake%20Taxi&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-female-fake-taxi-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Female Fake Taxi section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Fake Hospital</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Fake%20Hopsital&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-fake-hopsital-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Fake Hospital section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Fake Cop</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Fake%20Cop&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-fake-cop-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Fake Cop section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Female Agent</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Female%20Agent&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-female-agent-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Female Agent section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Czech Massage</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Czech%20Massage&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-czech-massage-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Czech Massage section within Erotik (XXX) addon.</summary>
+  </plugin>
+  
+  <plugin>
+    <name>Bonus</name>
+    <link>plugin://plugin.video.erotik/?mode=2&amp;name=Bonus&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-bonus-videos-1-date.html&quot;,return)</link>
+    <thumbnail></thumbnail>
+    <summary>Bonus section within Erotik (XXX) addon.</summary>
+  </plugin>
+</xml>
