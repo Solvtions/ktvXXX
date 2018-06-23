@@ -60,7 +60,7 @@ addon_path= xbmc.translatePath(('special://home/addons/%s' % (addon_id))).decode
 #######################################################################
 
 
-my_settings = {'root_xml':'file://jen_main.xml'}
+my_settings = {'root_xml':'file://main.xml'}
 
 
 def main():
