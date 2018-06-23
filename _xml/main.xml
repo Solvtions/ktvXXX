@@ -40,14 +40,14 @@
   <plugin>
     <name>[COLOR red]KTV Cinema[/COLOR]</name>
     <link>plugin://plugin.video.ktvcinema/</link>
-    <thumbnail>http://kritiktv.net/ktv/Images/KTV-CINEMA-ICON.png</thumbnail>
+    <thumbnail></thumbnail>
     <summary>Access to Movies, TV Shows and much more..!!</summary>
   </plugin>
   
   <plugin>
-    <name>[COLOR orange]KTV LIVE[/COLOR]</name>
+    <name>[COLOR red]KTV LIVE[/COLOR]</name>
     <link>plugin://plugin.video.Kritik/?action=stream_video&amp;title=ADULT&amp;url=31&quot;,return</link>
-    <thumbnail>http://kritiktv.net/ktv/Images/KTV-LIVE-LOGO.png</thumbnail>
+    <thumbnail></thumbnail>
     <summary>Premium Live TV Subscription Required</summary>
   </plugin>
   
