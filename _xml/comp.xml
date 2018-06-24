@@ -71,10 +71,12 @@
     <title>[COLOR gold]**MUST PAIR WITH OPENLOAD FOR SECTIONS BELOW**[/COLOR]</title>
   </item>
   
-  <item>
-    <title>[COLOR gold]**Pair Device**[/COLOR]</title>
-    <pairwith>pairlist</pairwith>
-  </item>
+  <plugin>
+    <name>[COLOR orange]**Pair/Authorize Device**[/COLOR]</name>
+    <link>plugin://script.KTVPair/?action=RunAddon</link>
+    <thumbnail></thumbnail>
+    <summary>Pair your device with sites such as Openload + Authorize Real Debrid on ResolveURL and URLResolver.</summary>
+  </plugin>
   
   <plugin>
     <name>[COLOR orange]NEW VIDEOS[/COLOR]</name>
