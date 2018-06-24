@@ -303,7 +303,7 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.ktvcinema" name="[COLOR red]KTV Cinema[/COLOR]" version="1.5" provider-name="Kritik TV">
+<addon id="plugin.video.ktvcinema" name="[COLOR red]KTV Cinema[/COLOR]" version="1.6" provider-name="Kritik TV">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
@@ -329,7 +329,7 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.ktvXXX" name="[COLOR red]Kritik TV XXX[/COLOR]" version="1.4" provider-name="Kritik TV">
+<addon id="plugin.video.ktvXXX" name="[COLOR red]Kritik TV XXX[/COLOR]" version="1.5" provider-name="Kritik TV">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
