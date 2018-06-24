@@ -65,7 +65,7 @@
   
   <plugin>
     <name>[COLOR gold]***Sign Up Here***[/COLOR]</name>
-	<link>http://plugin.video.Kritik</link>
+	<link>plugin://plugin.video.Kritik</link>
 	<thumbnail></thumbnail>
   </plugin>
   
