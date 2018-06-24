@@ -63,14 +63,12 @@
     <summary>Premium Live TV Subscription Required</summary>
   </plugin>
   
-  <plugin>
-    <name>[COLOR gold]***Sign Up Here***[/COLOR]</name>
-	<link>plugin://plugin.video.Kritik</link>
-	<thumbnail></thumbnail>
-  </plugin>
+  <item>
+    <title>[COLOR red]***Visit ktvlive.net to set up an account***[/COLOR]</title>
+  </item>
   
   <plugin>
-    <name>[COLOR orange]**Pair/Authorize Device***[/COLOR]</name>
+    <name>[COLOR orange]**Pair/Authorize Device**[/COLOR]</name>
     <link>plugin://script.KTVPair/?action=RunAddon</link>
     <thumbnail></thumbnail>
     <summary>Pair your device with sites such as Openload + Authorize Real Debrid on ResolveURL and URLResolver.</summary>
