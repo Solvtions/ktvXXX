@@ -42,6 +42,13 @@
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/live.xml</link>
   </dir>
   
+  <dir>
+    <title>[COLOR gold]**Pornstar Search**[/COLOR]</title>
+    <eporner>search</eporner>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+  </dir>
+  
   <plugin>
     <name>[COLOR red]KTV Cinema[/COLOR]</name>
     <link>plugin://plugin.video.ktvcinema/</link>
@@ -56,17 +63,11 @@
     <summary>Premium Live TV Subscription Required</summary>
   </plugin>
   
-  <item>
-    <title>[COLOR gold]***Sign Up Here***[/COLOR]</title>
-	<link>http://ktvlive.net/</link>
-  </item>
-  
-  <dir>
-    <title>[COLOR gold]**Pornstar Search**[/COLOR]</title>
-    <eporner>search</eporner>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-  </dir>
+  <plugin>
+    <name>[COLOR gold]***Sign Up Here***[/COLOR]</name>
+	<link>http://plugin.video.Kritik</link>
+	<thumbnail></thumbnail>
+  </plugin>
   
   <item>
     <title>[COLOR gold]**Pair Device**[/COLOR]</title>
