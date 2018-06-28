@@ -49,12 +49,12 @@
     <fanart></fanart>
   </dir>
   
-  <plugin>
-    <name>[COLOR red]KTV Cinema[/COLOR]</name>
-    <link>plugin://plugin.video.ktvcinema/</link>
+  <dir>
+    <title>[COLOR red]KTV Cinema[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/mainktv.xml</link>
     <thumbnail></thumbnail>
     <summary>Access to Movies, TV Shows and much more..!!</summary>
-  </plugin>
+  </dir>
   
   <plugin>
     <name>[COLOR red]KTV LIVE [COLOR gold](Must have active account to work)[/COLOR][/COLOR]</name>

@@ -1,27 +1,22 @@
 <xml>
 	<dir>
 		<title>Movies</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/movies.xml</link>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/movies.xml</link>
 	</dir>
 
 	<dir>
 		<title>TV Shows</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/tv.xml</link>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/tv.xml</link>
 	</dir>
 
 	<dir>
 		<title>Music</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/musicmain.xml</link>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/musicmain.xml</link>
 	</dir>
 
 	<dir>
 		<title>Live Events</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/livetv.xml</link>
-	</dir>
-
-	<dir>
-		<title>Kids Zone</title>
-		<link>https://raw.githubusercontent.com/Solvtions/xml/master/kids.xml</link>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/livetv.xml</link>
 	</dir>
 
 	<dir>

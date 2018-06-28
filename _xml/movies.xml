@@ -35,25 +35,25 @@
 
 <dir>
   <title>Genres</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/genres.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/genres.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/GENRES.png</thumbnail>
 </dir>
 
 <dir>
   <title>Collections</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/Collections.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/Collections.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/COLLECTIONS.png</thumbnail>
 </dir>
 
 <dir>
   <title>More Collections</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/MoreCollections.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/MoreCollections.xml</link>
   <thumbnail>http://kritiktv.net/ktv/Images/ICONS/MORE.png</thumbnail>
 </dir>
 
 <dir>
   <title>Production Companies</title>
-  <link>https://raw.githubusercontent.com/Solvtions/xml/master/production.xml</link>
+  <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/_xml/master/production.xml</link>
 </dir>
 
 <dir>
