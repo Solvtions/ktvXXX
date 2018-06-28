@@ -1,0 +1,19 @@
+<dir>
+  <title>Music Choice</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoice.xml</link>
+</dir>
+
+<dir>
+  <title>Music Choice Videos</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/musicchoicevideo.xml</link>
+</dir>
+
+<dir>
+  <title>LastFM (Coming Soon)</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/lastfm.xml</link>
+</dir>
+
+<dir>
+  <title>UK Music</title>
+  <link>https://raw.githubusercontent.com/Solvtions/xml/master/ukmusic.xml</link>
+</dir>
