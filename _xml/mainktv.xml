@@ -42,7 +42,7 @@
 
 	<plugin>
 		<name>Testings</name>
-		<link>plugin://plugin.video.ktvcinema/?action=developer</link>
+		<link>plugin://plugin.video.ktvXXX/?action=developer</link>
 		<thumbnail/>
 		<summary>Testings</summary>
 	</plugin>
