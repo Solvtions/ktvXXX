@@ -29,17 +29,6 @@
 		<trakt>search</trakt>
 	</dir>
 
-	<item>
-		<title>Pair With Sites</title>
-		<pairwith>pairlist</pairwith>
-	</item>
-
-	<item>
-		<title>Settings</title>
-		<mysettings>1/0</mysettings>
-		<info>Open the Settings for the addon on the General tab</info>
-	</item>
-
 	<plugin>
 		<name>Testings</name>
 		<link>plugin://plugin.video.ktvXXX/?action=developer</link>
