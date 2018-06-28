@@ -49,11 +49,16 @@
     <fanart></fanart>
   </dir>
   
-  <dir>
-    <title>[COLOR red]KTV Cinema[/COLOR]</title>
+  <item>
+    <title>[COLOR white]******[COLOR red]KTV Cinema[/COLOR]******[/COLOR]</title>
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/mainktv.xml</link>
     <thumbnail></thumbnail>
     <summary>Access to Movies, TV Shows and much more..!!</summary>
+  </item>
+  
+  <dir>
+    <title>[COLOR limegreen]Movies[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/movies.xml</link>
   </dir>
   
   <plugin>
