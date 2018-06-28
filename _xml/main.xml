@@ -57,8 +57,18 @@
   </item>
   
   <dir>
-    <title>[COLOR limegreen]Movies[/COLOR]</title>
+    <title>[COLOR white]******[COLOR limegreen]Movies[/COLOR]******[/COLOR]</title>
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/movies.xml</link>
+  </dir>
+  
+  <dir>
+    <title>[COLOR white]******[COLOR limegreen]TV Shows[/COLOR]******[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/tv.xml</link>
+  </dir>
+  
+  <dir>
+    <title>[COLOR white]******[COLOR limegreen]Music[/COLOR]******[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/musicmain.xml</link>
   </dir>
   
   <plugin>
