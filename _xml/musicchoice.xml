@@ -1,39 +1,31 @@
 <item>
-<name>____________________________________________________________________</name>
-<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
-<link></link> 
-<summary></summary>
+	<name>____________________________________________________________________</name>
+	<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
 
 <item>
-<name>[COLORblue]Music Choice[/COLOR] - [COLORyellow]Listen to Ad-Free Music 24/7[/COLOR]</name>
-<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
-<link></link> 
-<summary></summary>
+	<name>[COLORblue]Music Choice[/COLOR] - [COLORyellow]Listen to Ad-Free Music 24/7[/COLOR]</name>
+	<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
 
 <item>
-<name>____________________________________________________________________</name>
-<thumbnail></thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
-<link></link> 
-<summary></summary>
+	<name>____________________________________________________________________</name>
+	<thumbnail/>
+	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
 
 <item>
-<name>[COLORyellow]CURRENT LIST [/COLOR]</name>
-<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+	<name>[COLORyellow]CURRENT LIST [/COLOR]</name>
+	<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
 
 <item>
-<name>_____________________________________________________________________</name>
-<thumbnail></thumbnail>
-<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
-<link></link> 
-<summary></summary>
+	<name>_____________________________________________________________________</name>
+	<thumbnail/>
+	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
 
 <item>
@@ -157,8 +149,8 @@
 </item>
 
 <item>
-	<title></title>
-	<link></link>
+	<title/>
+	<link/>
 	<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
 	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
@@ -311,22 +303,20 @@
 </item>
 
 <item>
-<name>__________________________________________________________________________</name>
-<thumbnail></thumbnail>
-<link></link> 
-<summary></summary>
+	<name>__________________________________________________________________________</name>
+	<thumbnail/>
+
 </item>
 
 <item>
-<name>[COLORyellow]CLASSIC LIST [/COLOR]</name>
-<thumbnail></thumbnail>
+	<name>[COLORyellow]CLASSIC LIST [/COLOR]</name>
+	<thumbnail/>
 </item>
 
 <item>
-<name>__________________________________________________________________________</name>
-<thumbnail></thumbnail>
-<link></link> 
-<summary></summary>
+	<name>__________________________________________________________________________</name>
+	<thumbnail/>
+
 </item>
 
 <item>
@@ -442,7 +432,7 @@
 
 <item>
 	<title>Gospel</title>
-	<link></link>
+	<link/>
 	<thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
 	<fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
@@ -553,22 +543,20 @@
 </item>
 
 <item>
-<name>____________________________________________________________________</name>
-<thumbnail></thumbnail>
-<link></link> 
-<summary></summary>
+	<name>____________________________________________________________________</name>
+	<thumbnail/>
+
 </item>
 
 <item>
-<name>[COLORyellow]KIDS LIST [/COLOR]</name>
-<thumbnail></thumbnail>
+	<name>[COLORyellow]KIDS LIST [/COLOR]</name>
+	<thumbnail/>
 </item>
 
 <item>
-<name>_____________________________________________________________________</name>
-<thumbnail></thumbnail>
-<link></link> 
-<summary></summary>
+	<name>_____________________________________________________________________</name>
+	<thumbnail/>
+
 </item>
 
 <item>

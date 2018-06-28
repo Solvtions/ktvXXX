@@ -91,11 +91,13 @@ addon_id = xbmcaddon.Addon().getAddonInfo('id')
 addon_fanart = xbmcaddon.Addon().getAddonInfo('fanart')
 addon_icon   = xbmcaddon.Addon().getAddonInfo('icon')
 
-PAIR_LIST = [ ("openload", "https://olpair.com/pair"),
+PAIR_LIST = [ ("flashx", "https://www.flashx.tv/?op=login&redirect=https://www.flashx.tv/pairing.php"),
+        ("openload", "https://olpair.com/pair"),
+        ("streamango", "https://streamango.com/pair"),
+        ("streamcherry", "https://streamcherry.com/pair"),
         ("the_video_me", "https://thevideo.us/pair"),
         ("vid_up_me", "https://vidup.me/pair"),
-        ("vshare", "http://vshare.eu/pair"),
-        ("flashx", "https://www.flashx.tv/?op=login&redirect=https://www.flashx.tv/pairing.php") ]
+        ("vshare", "http://vshare.eu/pair") ]
 
 class JenTools(Plugin):
     name = "jentools"
