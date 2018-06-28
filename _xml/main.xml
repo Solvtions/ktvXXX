@@ -71,6 +71,16 @@
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/musicmain.xml</link>
   </dir>
   
+  <dir>
+    <title>[COLOR white]******[COLOR limegreen]Live Events[/COLOR]******[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/livetv.xml</link>
+  </dir>
+  
+  <dir>
+    <title>[COLOR white]******[COLOR limegreen]Sports[/COLOR]******[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/sports.xml</link>
+  </dir> 
+  
   <plugin>
     <name>[COLOR red]KTV LIVE [COLOR gold](Must have active account to work)[/COLOR][/COLOR]</name>
     <link>plugin://plugin.video.Kritik/?action=stream_video&amp;title=ADULT&amp;url=31&quot;,return</link>
