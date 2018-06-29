@@ -1,4 +1,9 @@
 <dir>
+	<title>****0-9****</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/0.xml</link>
+</dir>
+
+<dir>
 	<title>****A****</title>
 	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/A.xml</link>
 </dir>
@@ -126,54 +131,4 @@
 <dir>
 	<title>****Z****</title>
 	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/Z.xml</link>
-</dir>
-
-<dir>
-	<title>****0****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/0.xml</link>
-</dir>
-
-<dir>
-	<title>****1****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/1.xml</link>
-</dir>
-
-<dir>
-	<title>****2****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/2.xml</link>
-</dir>
-
-<dir>
-	<title>****3****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/3.xml</link>
-</dir>
-
-<dir>
-	<title>****4****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/4.xml</link>
-</dir>
-
-<dir>
-	<title>****5****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/5.xml</link>
-</dir>
-
-<dir>
-	<title>****6****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/6.xml</link>
-</dir>
-
-<dir>
-	<title>****7****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/7.xml</link>
-</dir>
-
-<dir>
-	<title>****8****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/8.xml</link>
-</dir>
-
-<dir>
-	<title>****9****</title>
-	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/9.xml</link>
 </dir>
