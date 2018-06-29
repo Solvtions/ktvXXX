@@ -1,14 +1,16 @@
-<item>
-	<title>HesGoal Games</title>
-	<hesgoal>games</hesgoal>
-</item>
+<xml>
+	<dir>
+		<title>HesGoal Games</title>
+		<hesgoal>games</hesgoal>
+	</dir>
 
-<item>
-	<title>Sports Streams</title>
-	<sport_stream>games</sport_stream>
-</item>
+	<dir>
+		<title>Sports Streams</title>
+		<sport_stream>games</sport_stream>
+	</dir>
 
-<item>
-	<title>Nfl Replay</title>
-	<sportshub>nfl_replay</sportshub>
-</item>
+	<dir>
+		<title>Nfl Replay</title>
+		<sportshub>nfl_replay</sportshub>
+	</dir>
+</xml>
