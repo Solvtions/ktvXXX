@@ -74,11 +74,6 @@
   <dir>
     <title>[COLOR white]******[COLOR limegreen]Live Events[/COLOR]******[/COLOR]</title>
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/livetv.xml</link>
-  </dir>
-  
-  <dir>
-    <title>[COLOR white]******[COLOR limegreen]Sports[/COLOR]******[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/sports2.xml</link>
   </dir> 
   
   <plugin>

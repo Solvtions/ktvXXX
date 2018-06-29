@@ -1,4 +1,9 @@
-<item>
-<title>Crawford vs. Horn</title>
-<link>http://cors7.nba4live.fun/hls/lal.m3u8</link>
-</item>
+<dir>
+<title>HesGoal Games</title>
+<hesgoal>games</hesgoal>
+</dir>
+
+<dir>
+<title>Sports Streams</title>
+<sport_stream>games</sport_stream>
+</dir>
