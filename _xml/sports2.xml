@@ -7,3 +7,8 @@
 <title>Sports Streams</title>
 <sport_stream>games</sport_stream>
 </dir>
+
+<dir>
+<title>NFL Replays</title>
+<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nfl.xml</link>
+</dir>
