@@ -92,6 +92,13 @@
     <summary>Bang Bros section within Erotik (XXX) addon.</summary>
   </plugin>
   
+  <item>
+    <title>Naked News</title>
+	<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nakednews.xml</link>
+	<thumbnail>https://openload.co/f/dLxPztTxaJA/naked-news-logo.png</thumbnail>
+	<fanart>https://openload.co/f/_RBSq3zGaW4/VATYgRy.jpg</fanart>
+  </item>
+  
   <plugin>
     <name>Blacked</name>
     <link>plugin://plugin.video.erotik/?mode=2&amp;name=Blacked&amp;url=https%3a%2f%2fwww.ero-tik.com%2fbrowse-blacked-videos-1-date.html&quot;,return)</link>
