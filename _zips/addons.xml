@@ -311,7 +311,7 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.ktvXXX" name="[COLOR red]Kritik TV XXX[/COLOR]" version="1.8" provider-name="Kritik TV">
+<addon id="plugin.video.ktvXXX" name="[COLOR red]Kritik TV XXX[/COLOR]" version="1.9" provider-name="Kritik TV">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
@@ -320,6 +320,8 @@ adulthideout@yandex.com[/COLOR]
         <import addon="script.module.requests" version="2.9.1" />
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
+		<import addon="script.module.adultresolver" version="1.00.001" />
+		<import addon="script.module.urlresolver.xxx" version="1.0.09" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
         <import addon="script.module.resolveurl" />
     </requires>
