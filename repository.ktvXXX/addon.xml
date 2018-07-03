@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <addon id="repository.ktvXXX" name="KTV XXX Repo" version="1.0.6" provider-name="Kritik TV">
+    <addon id="repository.ktvXXX" name="KTV XXX Repo" version="1.0.7" provider-name="Kritik TV">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="KTV XXX Repo">
             <dir>
-				<info compressed="false">https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/</datadir>
+				<info compressed="false">https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/</datadir>
 				<hashes>false</hashes>
 			</dir>
 			<dir>
