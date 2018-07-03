@@ -10,6 +10,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>false</reuselanguageinvoker>
     <platform>all</platform>
     <summary lang="en">OVER 18 ONLY - Support is available on Twitter @echo_coding</summary>
     <description lang="en">OVER 18 ONLY - Support is available on Twitter @echo_coding</description>

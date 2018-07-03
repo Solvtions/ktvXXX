@@ -11,6 +11,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>false</reuselanguageinvoker>
     <summary>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</summary>
     <description>Thousands of Free Streaming Porn videos! Updated every day. Lube Tube is the youtube of free porn.</description>
     <platform>all</platform>

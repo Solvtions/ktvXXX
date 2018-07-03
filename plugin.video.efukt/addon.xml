@@ -4,6 +4,7 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
+	<reuselanguageinvoker>false</reuselanguageinvoker>
 		<summary lang="en">EFUKT</summary>
 		<description lang="en">EFUKT</description>
         <news>EFUKT</news>

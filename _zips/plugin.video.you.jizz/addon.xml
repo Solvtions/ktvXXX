@@ -11,6 +11,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
+	<reuselanguageinvoker>false</reuselanguageinvoker>
         <platform>all</platform>
         <license>GPL 2.0</license>
         <summary lang="en">YouJizz.com</summary>

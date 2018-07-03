@@ -7,6 +7,7 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
+	<reuselanguageinvoker>false</reuselanguageinvoker>
 		<platform>all</platform>
 		<summary lang="en">Erotic Shark Video Addon</summary>
 		<description lang="en">Erotic Shark is a very new adult addon for XBMC and Kodi. You can watch all content from the cream of adult sites on the web with ease. Supported: AlphaPorno, BeFuck, CrocoTube, DrTuber, Eporner, Faapy, Heavy-r, Hotshame, MadThumBS, NakedTube, Pinkrod, PornDoe, Pornhub, PorniCom, PornoID, PornWORMS, RedTube, Tube8, TubeWolf, xHamster, XVideos, Wankoz. Download any video. </description>
