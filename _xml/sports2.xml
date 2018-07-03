@@ -1,9 +1,14 @@
 <dir>
-<title>HesGoal Games</title>
-<hesgoal>games</hesgoal>
+	<title>Replays</title>
+	<link>https://raw.githubusercontent.com/Solvtions/xml/master/replays.xml</link>
 </dir>
 
 <dir>
-<title>Sports Streams</title>
-<sport_stream>games</sport_stream>
+	<title>HesGoal Games</title>
+	<hesgoal>games</hesgoal>
+</dir>
+
+<dir>
+	<title>Sports Streams</title>
+	<sport_stream>games</sport_stream>
 </dir>
