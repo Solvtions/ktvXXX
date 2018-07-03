@@ -386,23 +386,40 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-    <addon id="repository.ktvXXX" name="KTV XXX Repo" version="1.0.4" provider-name="Kritik TV">
+    <addon id="repository.ktvXXX" name="KTV XXX Repo" version="1.0.5" provider-name="Kritik TV">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="KTV XXX Repo">
-            <info compressed="false">https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_zips/</datadir>
-            <hashes>false</hashes>
-		    <dir>
-                <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
-                <hashes>false</hashes>
+            <dir>
+				<info compressed="false">https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Solvtions/ktvrepo/master/__zips/</datadir>
+				<hashes>false</hashes>
+			</dir>
+			<dir>
+		        <info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
             </dir>
+			<dir>
+                <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+            </dir>
+			<dir>
+                <info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+            </dir>
+			<dir>
+                <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+			</dir>
         </extension>
         <extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>false</reuselanguageinvoker>
             <summary>Kritik TV XXX Repository</summary>
             <description>The most complete XXX build in the Kodi community..!! Enjoy..!!!</description>
             <platform>all</platform>
@@ -449,32 +466,5 @@ adulthideout@yandex.com[/COLOR]
 		<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="script.trumptweets" name="Trump Tweets!!" version="1.0.2" provider-name="Lunatixz">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.feedparser" version="5.1.3"/>
-    </requires>
-    <extension point="xbmc.python.script" library="settings.py"/>
-    <extension point="xbmc.service" library="service.py" start="login"/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Love um... Hate um... Trump Tweets!!</summary>
-        <description lang="en_GB">Keep yourself entertained and/or enlightened by the President of the United States tweets. Receive real-time twitter updates from @realDonaldTrump. 3D images provided royalty free by the talented Denys Almaral.</description>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
-        <platform>all</platform>
-        <website>https://twitter.com/realDonaldTrump</website>
-        <source>https://github.com/Lunatixz/XBMC_Addons/tree/master/script.trumptweets</source>
-        <forum>https://forum.kodi.tv/showthread.php?tid=316555</forum>
-        <news>v.1.0.1 - Tweaked Timer, Code Cleanup[CR] v.1.0.2 - Skin Tweaks</news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/images/screenshot01.png</screenshot>
-            <screenshot>resources/images/screenshot02.png</screenshot>
-            <screenshot>resources/images/screenshot03.png</screenshot>
-            <screenshot>resources/images/screenshot04.png</screenshot>
-        </assets>
-    </extension>
 </addon>
 </addons>
