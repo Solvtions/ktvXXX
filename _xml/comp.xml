@@ -67,6 +67,13 @@
 	<fanart>http://i.imgur.com/lYfaHrE.png</fanart>
   </dir>
   
+  <dir>
+    <title>Naked News</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nakednews.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+  </dir>
+  
   <item>
     <title>[COLOR gold]**MUST PAIR WITH OPENLOAD FOR SECTIONS BELOW**[/COLOR]</title>
   </item>
