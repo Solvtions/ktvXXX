@@ -1,9 +1,19 @@
 <settings>
     <!-- customization settings -->
+
     <category label="Customization">
+        <setting label="30200" type="lsep"/>
+        <setting id="use-account" type="bool" label="30200" default="true" visible="false"/>
+        <setting id="login_url" type="text" label="30204" default="http://kritiktv.net/login.php" visible="false"/>
+        <setting id="user_var" type="text" label="30206" default="username" visible="false"/>
+        <setting id="pwd_var" type="text" label="30207" default="password" visible="false"/>
+        <setting id="login_verified" type="text" label="30205" default="Welcome to" visible="false"/>
+        <setting id="username" type="text" label="30201" default="" enable="!eq(-1,false)"/>
+        <setting id="password" type="text" label="30202" default="" option="hidden" enable="!eq(-2,false)"/>
+        <setting id="hide-successful-login-messages" type="bool" label="30203" default="false" enable="!eq(-3,false)"/>
         <setting label="32507" type="lsep"/>
         <setting label="30717" type="bool" id="metadata" default="true"/>
-        <setting label="Disable metadata Dialog" type="bool" id="disable_metadata_dialog" default="false"/>
+        <setting label="Disable Metadata Dialog" type="bool" id="disable_metadata_dialog" default="false"/>
         <setting label="32508" type="select" values="Trakt|TMDB" id="movie_metadata_provider" default="Trakt"/>
         <setting label="32509" type="select" values="Trakt|TVDB" id="tv_metadata_provider" default="Trakt"/>
         <setting label="32510" type="lsep" visible="false"/>
@@ -16,7 +26,7 @@
         <setting label="Display" type="lsep"/>
         <setting label="Enable Settings Context item" type="bool" id="settings_context" default="true"/>
         <setting label="Enable Trailer Context item" type="bool" id="trailer_context" default="true"/>
-        <setting label="Hide Help Videos" type="bool" id="hide_help" default="false" visible="false"/>
+        <setting label="Hide Help Videos" type="bool" id="hide_help" default="false" visible="true"/>
         <setting label="32505" type="lsep" visible="true"/>
         <setting label="32506" type="select"
                values="system|bg|cs|da|de|el|en|es|fi|fr|he|hr|hu|it|ja|ko|nl|no|pl|pt|ru|sl|sv|tr|zh"
@@ -52,7 +62,7 @@
         <setting label="30760" type="lsep" visible="false"/>
         <setting id="disable_messages" label="30767" type="bool" default="false" visible="false"/>
         <setting id="enable_offensive" label="30761" type="bool" default="false" enable="eq(-1,false)" visible="false"/>
-        <setting label="queueing Options" type="lsep" visible="false"/>
+        <setting label="Queueing Options" type="lsep" visible="false"/>
         <setting id="include_watched_queue" label="Include Watched In Collection Queueing" type="bool" default="false" visible="false"/>
         <setting id="autostart_queue" label="Auto start queue if empty" type="bool" default="true" visible="false"/>
     </category>
@@ -77,6 +87,7 @@
     <category label="30770">
         <setting id="debug" type="bool" label="30758" default="false" visible="true"/>
         <setting id="root_xml" type="text" label="30060" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/main.xml" visible="false"/>
+        <setting id="message_xml_url" type="text" label="News File Location" option="hidden" default="file://news.xml" visible="false"/>
         <setting label="Current API Set Version" id="current_version" type="text" option="hidden" default="0" visible="false"/>
         <setting label="Enable Service Notification" id="enable_notification" type="bool" option="hidden" default="true" visible="false"/>
         <setting label="Disable Service after First Run" id="disable_service" type="bool" option="hidden" default="true" visible="false"/>
