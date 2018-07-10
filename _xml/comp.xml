@@ -67,13 +67,6 @@
 	<fanart>http://i.imgur.com/lYfaHrE.png</fanart>
   </dir>
   
-  <dir>
-    <title>Naked News</title>
-    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nakednews.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-  </dir>
-  
   <item>
     <title>[COLOR gold]**MUST PAIR WITH OPENLOAD FOR SECTIONS BELOW**[/COLOR]</title>
   </item>
@@ -89,8 +82,15 @@
     <name>[COLOR orange]NEW VIDEOS[/COLOR]</name>
     <link>plugin://plugin.video.erotik/?mode=1&amp;name=%5bCOLOR%20gold%5dNew%20Videos%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fwww.ero-tik.com%2findex.html&quot;,return)</link>
     <thumbnail></thumbnail>
-    <summary> section within Erotik (XXX) addon.</summary>
+    <summary>New Videos section within Erotik (XXX) addon.</summary>
   </plugin>
+  
+  <dir>
+    <title>Naked News</title>
+    <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nakednews.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+  </dir>
   
   <plugin>
     <name>Bang Bros</name>
