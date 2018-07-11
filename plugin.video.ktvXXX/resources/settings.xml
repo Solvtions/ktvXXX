@@ -80,8 +80,8 @@
         <setting label="TMDB API Key" type="text" id="tmdb_api_key" option="hidden" default="839033b1a1dc3a3f0674c901d64c9026" visible="eq(-4,true)"/>
         <setting label="Trakt Client ID" type="text" id="trakt_api_client_id" option="hidden" default="6a8af4c8ffda4fe3bbfc20744a4244dc8263088f1852cf69798a34d53279d677" visible="eq(-5,true)"/>
         <setting label="Trakt Client Secret" type="text" id="trakt_api_client_secret" option="hidden" visible="!eq(-1,true) + eq(-6,true)" default="468571dc2332d06f9f63d437cc0898c74124db190d2792a3d3711466dc64ef30"/>
-        <setting label="Last.fm API Key" type="text" id="lastfm_api_key" option="hidden" default="API KEY GOES HERE" visible="eq(-7,true)"/>
-        <setting label="Last.fm Secret" type="text" id="lastfm_secret" option="hidden" visible="!eq(-1,true) + eq(-8,true)" default="API KEY GOES HERE"/>
+        <setting label="Last.fm API Key" type="text" id="lastfm_api_key" option="hidden" default="3ec34c514a9230ebf006c8e24a8419d6" visible="eq(-7,true)"/>
+        <setting label="Last.fm Secret" type="text" id="lastfm_secret" option="hidden" visible="!eq(-1,true) + eq(-8,true)" default="41314c7fc8a8d391d28fa9721e08fdf2"/>
         <setting id="TRAKT_ACCESS_TOKEN" label="" type="text" visible="false"/>
         <setting id="TRAKT_EXPIRES_AT" label="" type="text" visible="false"/>
         <setting id="TRAKT_REFRESH_TOKEN" label="" type="text" visible="false"/>
