@@ -88,8 +88,8 @@
   <dir>
     <title>Naked News</title>
     <link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/nakednews.xml</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/naked-news-logo.png</thumbnail>
+	<fanart>http://kritiktv.net/ktv/Images/ICONS/nakednews.jpg</fanart>
   </dir>
   
   <plugin>
