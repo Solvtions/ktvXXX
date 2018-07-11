@@ -4,13 +4,17 @@
     <category label="Customization">
         <setting label="30200" type="lsep"/>
         <setting id="use-account" type="bool" label="30200" default="true" visible="false"/>
+        <setting id="username" type="text" label="30201" default="" enable="!eq(-1,false)"/>
+        <setting id="password" type="text" label="30202" default="" option="hidden" enable="!eq(-2,false)"/>
+        <setting id="login_message_style" type="select" label="30209" values="notification|popup|none" default="notification" visible="true" enable="!eq(-3,false)" />
         <setting id="login_url" type="text" label="30204" default="http://kritiktv.net/login.php" visible="false"/>
         <setting id="user_var" type="text" label="30206" default="username" visible="false"/>
         <setting id="pwd_var" type="text" label="30207" default="password" visible="false"/>
+        <setting id="session_length" type="text" label="30208" default="24" visible="false"/>
         <setting id="login_verified" type="text" label="30205" default="Welcome to" visible="false"/>
-        <setting id="username" type="text" label="30201" default="" enable="!eq(-1,false)"/>
-        <setting id="password" type="text" label="30202" default="" option="hidden" enable="!eq(-2,false)"/>
-        <setting id="hide-successful-login-messages" type="bool" label="30203" default="false" enable="!eq(-3,false)"/>
+        <setting id="login_welcome_msg" type="text" label="30210" default="Welcome to ktvXXX %s" visible="false"/>
+        <setting id="login_failed_msg" type="text" label="30211" default="Username or Password was incorrect %s" visible="false"/>
+        <setting id="login_required_msg" type="text" label="30212" default="Please enter a valid username and password in Settings" visible="false"/>
         <setting label="32507" type="lsep"/>
         <setting label="30717" type="bool" id="metadata" default="true"/>
         <setting label="Disable Metadata Dialog" type="bool" id="disable_metadata_dialog" default="false"/>
@@ -87,7 +91,7 @@
     <category label="30770">
         <setting id="debug" type="bool" label="30758" default="false" visible="true"/>
         <setting id="root_xml" type="text" label="30060" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/main.xml" visible="false"/>
-        <setting id="message_xml_url" type="text" label="News File Location" option="hidden" default="file://news.xml" visible="false"/>
+        <setting id="message_xml_url" type="text" label="News File Location" option="hidden" default="https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/news.xml" visible="false"/>
         <setting label="Current API Set Version" id="current_version" type="text" option="hidden" default="0" visible="false"/>
         <setting label="Enable Service Notification" id="enable_notification" type="bool" option="hidden" default="true" visible="false"/>
         <setting label="Disable Service after First Run" id="disable_service" type="bool" option="hidden" default="true" visible="false"/>
