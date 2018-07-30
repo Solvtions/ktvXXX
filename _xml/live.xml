@@ -2,7 +2,7 @@
   <dir>
 	<title>[COLOR gold]Chaturbate[/COLOR]</title>
 	<link>plugin://plugin.video.chaturbate/</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/chaturbate.png</thumbnail>
 	<fanart></fanart>
   </dir>
   
@@ -58,21 +58,21 @@
   <item>
 	<title>[COLOR gold]Studio 66[/COLOR]</title>
 	<link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/studio66.png</thumbnail>
 	<fanart></fanart>
   </item>
   
   <item>
 	<title>[COLOR gold]Studio 66 2[/COLOR]</title>
 	<link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/studio66.png</thumbnail>
 	<fanart></fanart>
   </item>
   
   <item>
 	<title>[COLOR gold]Studio 66 3[/COLOR]</title>
 	<link>http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>http://kritiktv.net/ktv/Images/ICONS/studio66.png</thumbnail>
 	<fanart></fanart>
   </item>
 </xml>
