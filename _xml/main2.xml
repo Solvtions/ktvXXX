@@ -1,0 +1,52 @@
+<xml>
+	<item>
+		<title>[COLOR gold]Welcome to KTV XXX.. Simply the best..!![/COLOR]</title>
+	</item>
+
+	<item>
+		<title>[COLOR gold]**If anything is down please let us know.. support@kritiktv.net**[/COLOR]</title>
+	</item>
+
+	<item>
+		<title>[COLOR orange]Some sites will ask you to pair your device[/COLOR]</title>
+	</item>
+
+	<item>
+		<title>[COLOR orange]**Use the Pair Device option below**[/COLOR]</title>
+	</item>
+
+	<item>
+		<title>[COLOR yellow]***Firestick users need to use Phone (connected to your wifi) or Downloader App to pair with sites***[/COLOR]</title>
+	</item>
+
+	<dir>
+		<title>1-Click Fantasies</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/comp.xml</link>
+	</dir>
+
+	<dir>
+		<title>Full Length Movies [COLOR yellow](Pair with Openload)[/COLOR]</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/full.xml</link>
+	</dir>
+
+	<dir>
+		<title>Special Collection [COLOR yellow](Pair with Openload)[/COLOR]</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/xxxtras.xml</link>
+	</dir>
+
+	<dir>
+		<title>Live Feeds</title>
+		<link>https://raw.githubusercontent.com/Solvtions/ktvXXX/master/_xml/live.xml</link>
+	</dir>
+
+	<dir>
+		<title>[COLOR gold]**Pornstar Search**[/COLOR]</title>
+		<eporner>search</eporner>
+	</dir>
+	
+	<item>
+		<title>[COLOR orange]**Pair/Authorize Device**[/COLOR]</title>
+		<pairwith>pairlist</pairwith>
+		<summary>Pair your device with sites such as Openload + Authorize Real Debrid on ResolveURL and URLResolver.</summary>
+	</item>
+</xml>
